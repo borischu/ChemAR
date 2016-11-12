@@ -1,0 +1,12 @@
+Acetaldehyde
+BF3
+C2H2
+C2H4
+Caffeine
+CH4
+CO2
+EtOH
+H2O
+HCl
+N2
+SF6
