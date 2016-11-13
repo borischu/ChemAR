@@ -2,7 +2,7 @@
 
 -HackPrinceton Fall 2016
 
-![alt tag](https://github.com/borischu/ChemAR/master/caffeine.png)
+![alt tag](https://raw.githubusercontent.com/borischu/ChemAR/master/caffeine.png)
 
 ## How To Use: 
 - Use images in target_images folder for image recognition
