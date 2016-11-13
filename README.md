@@ -1,4 +1,4 @@
-# ChemAR
+# ChemistryGO
 
 -HackPrinceton Fall 2016
 
