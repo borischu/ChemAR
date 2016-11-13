@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="SF6" size="300.000000 300.000000" />
+    <ImageTarget name="HCl" size="300.000000 175.195312" />
+    <ImageTarget name="H2O" size="300.000000 78.375000" />
+    <ImageTarget name="EtOH" size="300.000000 300.000000" />
+    <ImageTarget name="CH4" size="300.000000 310.500000" />
+    <ImageTarget name="Caffeine" size="300.000000 300.000000" />
+    <ImageTarget name="C2H2" size="300.000000 64.909088" />
+    <ImageTarget name="CO2" size="300.000000 88.235291" />
+    <ImageTarget name="BF3" size="300.000000 300.000000" />
+    <ImageTarget name="Acetaldehyde" size="300.000000 257.851227" />
+  </Tracking>
+</QCARConfig>
