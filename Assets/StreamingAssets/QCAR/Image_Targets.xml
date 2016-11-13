@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="Urea" size="300.000000 300.000000" />
+    <ImageTarget name="DDT" size="300.000000 300.000000" />
+    <ImageTarget name="Benzene" size="300.000000 353.982300" />
+    <ImageTarget name="Nitroglycerin" size="300.000000 284.531250" />
+    <ImageTarget name="PCl5" size="300.000000 300.000000" />
     <ImageTarget name="SF6" size="300.000000 300.000000" />
     <ImageTarget name="HCl" size="300.000000 175.195312" />
     <ImageTarget name="H2O" size="300.000000 78.375000" />

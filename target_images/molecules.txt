@@ -1,12 +1,15 @@
 Acetaldehyde
+Benzene
 BF3
 C2H2
-C2H4
 Caffeine
 CH4
 CO2
+DDT
 EtOH
 H2O
 HCl
-N2
+Nitroglycerin
+PCl5
 SF6
+Urea
