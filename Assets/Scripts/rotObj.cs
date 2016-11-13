@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class rotObj : MonoBehaviour {
-	float rotSpeed = 10;
+	float rotSpeed = 3;
 
 	void OnMouseDrag()
 	{
@@ -11,6 +11,7 @@ public class rotObj : MonoBehaviour {
 
 		transform.RotateAround (Vector3.up, -rotX);
 		transform.RotateAround (Vector3.right, -rotY);
+
 	}
 
 }
