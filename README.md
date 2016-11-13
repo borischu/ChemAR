@@ -2,6 +2,10 @@
 
 -HackPrinceton Fall 2016
 
+## How To Use: 
+- Use images in target_images folder for image recognition
+- Point Android mobile device or Google Cardboard to image to see 3D molecule!
+
 ## Inspiration
 As students of chemical engineering, we are deeply interested in educating students about the wonderful field of chemistry. One of the most difficult things in chemistry is visualizing molecules in 3 dimensions. So for this project, we wanted to make visualizing molecules easy and interactive for students in addition to making it easy for teachers to implement in the classroom.
 
