@@ -37,8 +37,8 @@ The fact that there were few simple molecules that were already in PDB format ma
 - Unity 
 
 ## What's next for ChemistryGO
-- Creating the database by scripting PDB files
-- Automation of database
+- Creating the database by script creating PDB files
+- Automation of database creation
 - A user-friendly interface to upload pictures to corresponding 3D models 
 - A more robust Android application
 - Machine learning molecules
