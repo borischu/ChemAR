@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="chemgo" size="200.000000 38.848923" />
     <ImageTarget name="Urea" size="300.000000 300.000000" />
     <ImageTarget name="DDT" size="300.000000 300.000000" />
     <ImageTarget name="Benzene" size="300.000000 353.982300" />
